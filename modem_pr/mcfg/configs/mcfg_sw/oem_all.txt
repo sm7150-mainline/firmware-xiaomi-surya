@@ -69,9 +69,15 @@ mcfg_sw/generic/korea/lgu/commerci/mcfg_sw.mbn
 mcfg_sw/generic/korea/skt/commerci/mcfg_sw.mbn
 mcfg_sw/generic/latam/amx/volte/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/uruguay_/mcfg_sw.mbn
+mcfg_sw/generic/latam/antel/commerci/uruguay/mcfg_sw.mbn
 mcfg_sw/generic/latam/telefoni/commerci/colombia/mcfg_sw.mbn
 mcfg_sw/generic/latam/tigo/commerci/mcfg_sw.mbn
 mcfg_sw/generic/latam/vivo/commerci/brazil/mcfg_sw.mbn
+mcfg_sw/generic/latam/entel/commerci/chile/mcfg_sw.mbn
+mcfg_sw/generic/latam/wom/commerci/mcfg_sw.mbn
+mcfg_sw/generic/latam/movistar/chile_co/mcfg_sw.mbn
+mcfg_sw/generic/latam/claro/commerci/peru/mcfg_sw.mbn
+mcfg_sw/generic/latam/entel/commerci/peru/mcfg_sw.mbn
 mcfg_sw/generic/mea/qatar/commerci/mcfg_sw.mbn
 mcfg_sw/generic/mea/stc/commerci/sa/mcfg_sw.mbn
 mcfg_sw/generic/mea/saudi/zain/commerci/mcfg_sw.mbn
@@ -113,6 +119,7 @@ mcfg_sw/generic/sea/xl/commerci/mcfg_sw.mbn
 mcfg_sw/generic/sea/ytl/commerci/mcfg_sw.mbn
 mcfg_sw/generic/mexico/altan/commerci/mcfg_sw.mbn
 mcfg_sw/generic/mexico/axtel/commerci/mcfg_sw.mbn
+mcfg_sw/generic/eu/a1/commerci/croatia/mcfg_sw.mbn
 mcfg_sw/generic/eu/dt/commerci/nl/mcfg_sw.mbn
 mcfg_sw/generic/eu/elisa/commerci/estonia/mcfg_sw.mbn
 mcfg_sw/generic/eu/elisa/commerci/fi/mcfg_sw.mbn
@@ -133,6 +140,7 @@ mcfg_sw/generic/eu/telenor/commerci/denmark/mcfg_sw.mbn
 mcfg_sw/generic/eu/telenor/commerci/hungary/mcfg_sw.mbn
 mcfg_sw/generic/eu/telenor/commerci/sweden/mcfg_sw.mbn
 mcfg_sw/generic/eu/telenor/commerci/finland/mcfg_sw.mbn
+mcfg_sw/generic/eu/telenor/commerci/norway/mcfg_sw.mbn
 mcfg_sw/generic/eu/telia/commerci/denmark/mcfg_sw.mbn
 mcfg_sw/generic/eu/telia/commerci/estonia/mcfg_sw.mbn
 mcfg_sw/generic/eu/telia/commerci/finland/mcfg_sw.mbn
@@ -153,18 +161,13 @@ mcfg_sw/generic/latam/claro/commerci/guatemal/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/honduras/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/nicaragu/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/panama/mcfg_sw.mbn
-mcfg_sw/generic/latam/claro/commerci/peru/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/puerto/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/salvador/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/uruguay/mcfg_sw.mbn
-mcfg_sw/generic/latam/entel/commerci/chile/mcfg_sw.mbn
-mcfg_sw/generic/latam/entel/commerci/peru/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/argentin/mcfg_sw.mbn
-mcfg_sw/generic/latam/movistar/chile_co/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/ecuador_/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/mx_comme/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/panama_c/mcfg_sw.mbn
 mcfg_sw/generic/latam/mx-att/commerci/mcfg_sw.mbn
 mcfg_sw/generic/latam/telefoni/commerci/peru/mcfg_sw.mbn
-mcfg_sw/generic/latam/wom/commerci/mcfg_sw.mbn
 

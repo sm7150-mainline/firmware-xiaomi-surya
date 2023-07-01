@@ -74,6 +74,7 @@ mcfg_sw/generic/latam/claro/commerci/peru/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/puerto/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/salvador/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/uruguay/mcfg_sw.mbn
+mcfg_sw/generic/latam/antel/commerci/uruguay/mcfg_sw.mbn
 mcfg_sw/generic/latam/entel/commerci/chile/mcfg_sw.mbn
 mcfg_sw/generic/latam/entel/commerci/peru/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/argentin/mcfg_sw.mbn

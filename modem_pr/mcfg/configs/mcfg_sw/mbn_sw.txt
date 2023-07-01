@@ -37,6 +37,7 @@ mcfg_sw/generic/china/ctm/commerci/mcfg_sw.mbn
 mcfg_sw/generic/china/cu/commerci/openmkt/mcfg_sw.mbn
 mcfg_sw/generic/china/cu/commerci/volte/mcfg_sw.mbn
 mcfg_sw/generic/china/cu/lab/test/mcfg_sw.mbn
+mcfg_sw/generic/eu/a1/commerci/croatia/mcfg_sw.mbn
 mcfg_sw/generic/eu/a1/commerci/slovenia/mcfg_sw.mbn
 mcfg_sw/generic/eu/a1/commerci/mcfg_sw.mbn
 mcfg_sw/generic/eu/bouygues/commerci/france/mcfg_sw.mbn
@@ -133,6 +134,7 @@ mcfg_sw/generic/korea/skt/commerci/mcfg_sw.mbn
 mcfg_sw/generic/latam/amx/commerci/mx/mcfg_sw.mbn
 mcfg_sw/generic/latam/amx/non_volt/mcfg_sw.mbn
 mcfg_sw/generic/latam/amx/volte/mcfg_sw.mbn
+mcfg_sw/generic/latam/antel/commerci/uruguay/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/arg/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/brazil/mcfg_sw.mbn
 mcfg_sw/generic/latam/claro/commerci/cri/mcfg_sw.mbn

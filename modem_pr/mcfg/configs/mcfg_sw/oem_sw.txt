@@ -69,9 +69,15 @@ mcfg_sw/generic/korea/lgu/commerci/mcfg_sw.mbn
 mcfg_sw/generic/korea/skt/commerci/mcfg_sw.mbn
 mcfg_sw/generic/latam/amx/volte/mcfg_sw.mbn
 mcfg_sw/generic/latam/movistar/uruguay_/mcfg_sw.mbn
+mcfg_sw/generic/latam/antel/commerci/uruguay/mcfg_sw.mbn
 mcfg_sw/generic/latam/telefoni/commerci/colombia/mcfg_sw.mbn
 mcfg_sw/generic/latam/tigo/commerci/mcfg_sw.mbn
 mcfg_sw/generic/latam/vivo/commerci/brazil/mcfg_sw.mbn
+mcfg_sw/generic/latam/entel/commerci/chile/mcfg_sw.mbn
+mcfg_sw/generic/latam/wom/commerci/mcfg_sw.mbn
+mcfg_sw/generic/latam/movistar/chile_co/mcfg_sw.mbn
+mcfg_sw/generic/latam/claro/commerci/peru/mcfg_sw.mbn
+mcfg_sw/generic/latam/entel/commerci/peru/mcfg_sw.mbn
 mcfg_sw/generic/mea/qatar/commerci/mcfg_sw.mbn
 mcfg_sw/generic/mea/stc/commerci/sa/mcfg_sw.mbn
 mcfg_sw/generic/mea/saudi/zain/commerci/mcfg_sw.mbn

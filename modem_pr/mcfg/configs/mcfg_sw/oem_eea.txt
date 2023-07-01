@@ -10,6 +10,7 @@ mcfg_sw/generic/common/row/commerci/mcfg_sw.mbn
 mcfg_sw/generic/common/test/commerci/mcfg_sw.mbn
 mcfg_sw/generic/eu/a1/commerci/slovenia/mcfg_sw.mbn
 mcfg_sw/generic/eu/a1/commerci/mcfg_sw.mbn
+mcfg_sw/generic/eu/a1/commerci/croatia/mcfg_sw.mbn
 mcfg_sw/generic/eu/bouygues/commerci/france/mcfg_sw.mbn
 mcfg_sw/generic/eu/digi/romania_/mcfg_sw.mbn
 mcfg_sw/generic/eu/dt/commerci/austria/mcfg_sw.mbn
@@ -58,6 +59,7 @@ mcfg_sw/generic/eu/telenor/commerci/denmark/mcfg_sw.mbn
 mcfg_sw/generic/eu/telenor/commerci/hungary/mcfg_sw.mbn
 mcfg_sw/generic/eu/telenor/commerci/sweden/mcfg_sw.mbn
 mcfg_sw/generic/eu/telenor/commerci/finland/mcfg_sw.mbn
+mcfg_sw/generic/eu/telenor/commerci/norway/mcfg_sw.mbn
 mcfg_sw/generic/eu/telia/commerci/denmark/mcfg_sw.mbn
 mcfg_sw/generic/eu/telia/commerci/estonia/mcfg_sw.mbn
 mcfg_sw/generic/eu/telia/commerci/finland/mcfg_sw.mbn
