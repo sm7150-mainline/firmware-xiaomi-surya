@@ -1,0 +1,1 @@
+{"lsm6dso_0_platform.md":{"owner":"sns_lsm6dso","config":{"type":"grp","ver":"0","data":""}}}
